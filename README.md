@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=vinicio-silva&color=006bed)
-
 <h3>Sobre mim</h3>
 
 - 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>.
@@ -18,10 +16,6 @@
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel]([https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white))
-
-
-
-
 
 **DevOps**
 
