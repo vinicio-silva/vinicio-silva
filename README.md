@@ -38,4 +38,4 @@
 
 **Onde me encontrar**
 <p>Email: viniciobernardessilva@gmail.com</p>
-<p>LinedIn: https://www.linkedin.com/in/vinicio-bernardes-silva/</p>
+<p>LinkedIn: https://www.linkedin.com/in/vinicio-bernardes-silva/</p>
