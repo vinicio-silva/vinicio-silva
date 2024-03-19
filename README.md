@@ -1,7 +1,7 @@
 <h3>Sobre mim</h3>
 
 - 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>.
-- 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="[LINK DA EMPRESA](https://didatikos.com.br/)">Didatikos</a>
+- 💼 Trabalhando como Software Developer Intern na EdgeUno
 
 <h3>Minhas Skills</h3>
 
