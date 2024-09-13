@@ -1,9 +1,12 @@
-<h3>Sobre mim</h3>
+<h3>Sobre mim / About Me</h3>
 
-- 🎓 Estudando Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>.
-- 💼 Trabalhando como Software Developer Intern na EdgeUno
+- 🎓 Graduado em Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>.
+- 🎓 Computer Science graduate from the <a href="https://ufu.br/">Federal University of Uberlândia (UFU)</a>.
+  
+- 💼 Trabalhando como Software Developer Full Stack na EdgeUno
+- 💼 Working as a Full Stack Software Developer at EdgeUno
 
-<h3>Minhas Skills</h3>
+<h3>Minhas Skills / My Skills</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-**Ferramentas de desenvolvimento**
+**Ferramentas de desenvolvimento / Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
@@ -36,6 +39,6 @@
 
 <br/>
 
-**Onde me encontrar**
+**Onde me encontrar / Where to Find Me**
 <p>Email: viniciobernardessilva@gmail.com</p>
 <p>LinkedIn: https://www.linkedin.com/in/vinicio-bernardes-silva/</p>
