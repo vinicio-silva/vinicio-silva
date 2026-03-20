@@ -77,6 +77,29 @@ I am currently expanding my expertise in Artificial Intelligence and process opt
   </tr>
 </table>
 
+### 🏆 My Lifetime GitHub Stats
+
+<table>
+  <tr>
+    <td align="center"><b>General Stats (All Time)</b></td>
+    <td align="center"><b>Total Contributions & Streaks</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vinicio-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="All Time Stats" width="400px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicio-silva&theme=dark&hide_border=true" alt="Streak Stats" width="400px"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📈 Detailed Metrics (Full History)
+<p align="center">
+  <img src="https://metrics.lecoq.io/vinicio-silva?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics All Time" width="800px"/>
+</p>
 
 ### Where to Find Me
 
