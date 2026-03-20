@@ -94,5 +94,5 @@ I am currently expanding my expertise in Artificial Intelligence and process opt
 
 ### Where to Find Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciobernardessilva@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicio-bernardes-silva/)
+* **Email:** [viniciobernardessilva@gmail.com](mailto:viniciobernardessilva@gmail.com)
+* **LinkedIn:** [linkedin.com/in/vinicio-bernardes-silva](https://www.linkedin.com/in/vinicio-bernardes-silva/)
