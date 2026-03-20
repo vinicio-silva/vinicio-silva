@@ -77,12 +77,6 @@ I am currently expanding my expertise in Artificial Intelligence and process opt
   </tr>
 </table>
 
-<br/>
-
-### 🛠 Metrics (Advanced)
-<p align="center">
-  <img src="https://metrics.lecoq.io/vinicio-silva?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics" width="800px"/>
-</p>
 
 ### Where to Find Me
 
