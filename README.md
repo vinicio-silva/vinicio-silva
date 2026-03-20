@@ -1,6 +1,6 @@
 ### About Me
 
-Computer Science graduate from the **Federal University of Uberlândia (UFU)** with solid experience in **Full Stack development**. I specialize in building responsive web applications and high-performance mobile solutions.
+Computer Science graduate from the **Federal University of Uberlândia (UFU)** with solid experience in **Full Stack development**. I specialize in building responsive web applications and high-performance solutions.
 
 - 💼 **Current Role:** Full Stack Software Developer at EdgeUno.
 - 💻 **Environments:** Proficient in macOS and Linux development workflows.
