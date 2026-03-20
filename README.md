@@ -82,7 +82,6 @@ I am currently expanding my expertise in Artificial Intelligence and process opt
 <table>
   <tr>
     <td align="center"><b>General Stats (All Time)</b></td>
-    <td align="center"><b>Total Contributions & Streaks</b></td>
   </tr>
   <tr>
     <td>
