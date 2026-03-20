@@ -9,6 +9,7 @@ Computer Science graduate from the **Federal University of Uberlândia (UFU)** w
 ### Tech Stack & Skills
 
 **Frontend & Mobile**
+<br/>
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,6 +21,7 @@ Computer Science graduate from the **Federal University of Uberlândia (UFU)** w
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
+<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -29,6 +31,7 @@ Computer Science graduate from the **Federal University of Uberlândia (UFU)** w
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Tools**
+<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -45,13 +48,41 @@ I am currently expanding my expertise in Artificial Intelligence and process opt
 
 <br/>
 
-<img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicio-silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github stats"
-  />
+### 📊 GitHub Stats & Activity
 
-<br clear="left"/>
+<table>
+  <tr>
+    <td align="center"><b>Top Languages</b></td>
+    <td align="center"><b>Activity Graph</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicio-silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="400px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicio-silva&theme=react-dark&bg_color=1c1c1c&hide_border=true" alt="Activity Graph" width="400px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Contribution Streak</b></td>
+    <td align="center"><b>General Stats</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicio-silva&theme=dark&hide_border=true" alt="GitHub Streak" width="400px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vinicio-silva&show_icons=true&theme=dark&rank_icon=github&hide_border=true" alt="General Stats" width="400px"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🛠 Metrics (Advanced)
+<p align="center">
+  <img src="https://metrics.lecoq.io/vinicio-silva?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics" width="800px"/>
+</p>
 
 ### Where to Find Me
 
