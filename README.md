@@ -1,33 +1,47 @@
-<h3>Sobre mim / About Me</h3>
+### About Me
 
-- 🎓 Graduado em Ciência da Computação na <a href="https://ufu.br/">Universidade Federal de Uberlândia (UFU)</a>.
-- 🎓 Computer Science graduate from the <a href="https://ufu.br/">Federal University of Uberlândia (UFU)</a>.
-  
-- 💼 Trabalhando como Software Developer Full Stack na EdgeUno
-- 💼 Working as a Full Stack Software Developer at EdgeUno
+Computer Science graduate from the **Federal University of Uberlândia (UFU)** with solid experience in **Full Stack development**. I specialize in building responsive web applications and high-performance mobile solutions.
 
-<h3>Minhas Skills / My Skills</h3>
+- 💼 **Current Role:** Full Stack Software Developer at EdgeUno.
+- 💻 **Environments:** Proficient in macOS and Linux development workflows.
+- ⚙️ **DevOps:** Experience with Docker containerization and implementing CI/CD pipelines.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Tech Stack & Skills
+
+**Frontend & Mobile**
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**DevOps**
+**Backend & Database**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![VSCode](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-**Ferramentas de desenvolvimento / Development Tools**
+### 🤖 Current Focus: AI & Automation
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+I am currently expanding my expertise in Artificial Intelligence and process optimization:
+- **Workflow Orchestration:** Building automated flows using **n8n**.
+- **AI Integration:** Configuring **MCP (Model Context Protocol) servers** and direct API integrations.
+- **Optimization:** Developing innovative solutions to streamline complex operations through AI.
 
 <br/>
 
@@ -37,8 +51,9 @@
     alt="Github stats"
   />
 
-<br/>
+<br clear="left"/>
 
-**Onde me encontrar / Where to Find Me**
-<p>Email: viniciobernardessilva@gmail.com</p>
-<p>LinkedIn: https://www.linkedin.com/in/vinicio-bernardes-silva/</p>
+### Where to Find Me
+
+- **Email:** [viniciobernardessilva@gmail.com](mailto:viniciobernardessilva@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vinicio-bernardes-silva/](https://www.linkedin.com/in/vinicio-bernardes-silva/)
